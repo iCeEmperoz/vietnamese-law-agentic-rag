@@ -1,0 +1,55 @@
+# ─── API KEYS & CONFIGURATIONS ───
+# Chứa các khóa bảo mật quan trọng (Gemini API Key, Groq API Key)
+.env
+
+# ─── LOCAL STORAGE / DATA STORAGE ───
+# Loại bỏ toàn bộ thư mục dữ liệu đã nạp (ChromaDB, BM25 Index, NetworkX Graph)
+# Người dùng khác chỉ cần chạy `python scripts/ingest.py` để tự động tạo lại
+data/
+data/**/*
+
+# ─── PYTHON CACHES & BUILD ───
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ─── VIRTUAL ENVIRONMENTS ───
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ─── SYSTEM FILES ───
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE CONFIGURATIONS ───
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

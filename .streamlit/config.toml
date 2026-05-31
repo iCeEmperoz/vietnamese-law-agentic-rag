@@ -1,0 +1,12 @@
+[server]
+# Increase timeout to prevent disconnection during long LLM calls
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[runner]
+# Prevent Streamlit from timing out during slow LLM inference
+fastReruns = false
