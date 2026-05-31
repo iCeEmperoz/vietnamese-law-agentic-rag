@@ -1,0 +1,22 @@
+# Configuration values for aio-agentic-rag
+
+app_name: "aio-agentic-rag"
+version: "0.1.0"
+
+storage:
+  type: "local"
+  path: "data"
+
+model:
+  name: "gemini-3.5-flash"
+  temperature: 0.0
+
+ingestion:
+  chunk_size: 800
+  chunk_overlap: 100
+
+retrieval:
+  k: 5
+  graph_max_hops: 2
+  rrf_k: 60
+  rerank_top_n: 3
