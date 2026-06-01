@@ -1,0 +1,808 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "title": "Sắc lệnh quy định liên hệ giữa UBKCHC và các cơ quan chuyên môn",
+      "doc_type": "sắc lệnh",
+      "issue_date": "05/06/1950",
+      "effective_date": "20/06/1950",
+      "status": "expired",
+      "id": "72"
+    },
+    {
+      "title": "Về việc chuyển giao nhiệm vụ quản lý Nhà nước về đất lâm nghiệp từ Sở Nông nghiệp và Phát triển Nông thôn và Chi cục kiểm lâm tỉnh sang Sở Địa chính để quản lý",
+      "doc_type": "quyết định",
+      "issue_date": "12/07/1999",
+      "effective_date": "12/07/1999",
+      "status": "effective",
+      "id": "4260"
+    },
+    {
+      "title": "Về viẹc quản lý và quy định thống nhất phí chợ trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "19/11/1999",
+      "effective_date": "19/11/1999",
+      "status": "effective",
+      "id": "4280"
+    },
+    {
+      "title": "Về việc xử lý đối với quỹ nhà thuộc quyền sở hữu Nhà nước do các cơ quan, đơn vị đã tự bố trí cho cán bộ, công nhân viên ở tập thể trên địa bàn thành phố Đà Lạt.",
+      "doc_type": "quyết định",
+      "issue_date": "30/11/1999",
+      "effective_date": "30/11/1999",
+      "status": "effective",
+      "id": "4263"
+    },
+    {
+      "title": "Sắc lệnh bãi bỏ Sắc lệnh 106 ngày 09-09-1949 về phí cấp hàng tháng của các các vị trong Ban thường trực Quốc hội",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "01/05/1950",
+      "status": "expired",
+      "id": "77"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm cán bộ giữ chức Đổng lý Văn phòng Bộ ngoại giao",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "22/05/1950",
+      "status": "expired",
+      "id": "75"
+    },
+    {
+      "title": "Sắc lệnh chấp nhận đơn xin từ chức của bác sĩ Phạm Văn Huyên Tổng giám đốc Nha chăn nuôi",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "11/07/1950",
+      "status": "expired",
+      "id": "58"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm ông Nguyễn Xuân Ngọc giữ chức Ban thư ký Ban kinh tế tài chính Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/05/1950",
+      "effective_date": "20/05/1950",
+      "status": "expired",
+      "id": "95"
+    },
+    {
+      "title": "Về việc cho phép thành lập Quỹ bảo trợ nạn nhân chất độc da cam tỉnh Lâm Đồng và ban hành Quy chế tổ chức hoạt động của quỹ",
+      "doc_type": "quyết định",
+      "issue_date": "03/06/1999",
+      "effective_date": "03/06/1999",
+      "status": "effective",
+      "id": "4271"
+    },
+    {
+      "title": "Sắc lệnh định việc trừng trị những tội làm chậm trễ hay ngăn trở việc thi hành nghĩa vụ quân sự và lệnh tòng quân",
+      "doc_type": "sắc lệnh",
+      "issue_date": "15/06/1950",
+      "effective_date": "30/06/1950",
+      "status": "expired",
+      "id": "71"
+    },
+    {
+      "title": "Về việc thành lập Chi cục phát triển Lâm nghiệp trực thuộc Sở NN&PTNT tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "31/12/1998",
+      "effective_date": "15/01/1999",
+      "status": "effective",
+      "id": "4293"
+    },
+    {
+      "title": "Ban hành quy định phân cấp quản lý công tác Tổ chức và Cán bộ",
+      "doc_type": "quyết định",
+      "issue_date": "01/04/1997",
+      "effective_date": "01/04/1997",
+      "status": "effective",
+      "id": "4204"
+    },
+    {
+      "title": "Về việc quy định giá dịch vụ giữ xe và phí bến bãi đậu xe trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "08/12/1999",
+      "effective_date": "08/12/1999",
+      "status": "effective",
+      "id": "4258"
+    },
+    {
+      "title": "Sắc lệnh đổi tên Viện Kháng nhiệm thứ ngư là viện \"Thú y\"",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "26/07/1950",
+      "status": "expired",
+      "id": "59"
+    },
+    {
+      "title": "Về việc giao chỉ tiêu kế hoạch động viên và huy động lực lượng ngành Y tế bảo đảm nhu cầu khi có chiến tranh và các tình huống cần thiết khác đối với ngành Y tế tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "11/10/2000",
+      "effective_date": "11/10/2000",
+      "status": "effective",
+      "id": "4274"
+    },
+    {
+      "title": "Sắc lệnh bãi bỏ Ban Căn cứ địa Việt bắc",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "78"
+    },
+    {
+      "title": "Sắc lệnh cử ông Nguyễn Ngọc Cừ, Giáo sư trung học giữ chức Phó giám đốc Trung học vụ và ông Hoàng Quy, giáo viên tiểu học giữ chức Phó giám đốc Tiểu học vụ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "11/07/1950",
+      "status": "expired",
+      "id": "60"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm ông Nghiên Xuân Tiếp, giữ chức Phó Giám đốc Nha thuỷ lâm",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "11/07/1950",
+      "status": "expired",
+      "id": "56"
+    },
+    {
+      "title": "Về việc phê duyệt qui hoạch chi tiết xây khu vực cửa ngõ thành phố Đà Lạt (phần 1)",
+      "doc_type": "quyết định",
+      "issue_date": "30/12/1998",
+      "effective_date": "30/12/1998",
+      "status": "effective",
+      "id": "4297"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm ông Bùi Huy Đáp và Vũ Công Hậu giữ chức Phó Giám đốc Nha nông chính",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "11/07/1950",
+      "status": "expired",
+      "id": "57"
+    },
+    {
+      "title": "Về việc chuyển chức năng QLNN về Thể dục thể thao và 02 đơn vị từ Sở Văn hóa Thông tin và Thể thao Lâm Đồng sang Sở Thể dục Thể thao Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "03/06/1999",
+      "effective_date": "03/06/1999",
+      "status": "effective",
+      "id": "4273"
+    },
+    {
+      "title": "Về việc thực hiện Quyết định số 53/1999/QĐ-TTg ngày 26 tháng 3 năm 1999 của Thủ tướng Chính phủ",
+      "doc_type": "chỉ thị",
+      "issue_date": "26/06/1999",
+      "effective_date": "26/06/1999",
+      "status": "effective",
+      "id": "4265"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm ông Lê Văn Nguôn, giữ chức Phó Đổng lý Văn phòng Bộ lao động",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "30/04/1975",
+      "status": "expired",
+      "id": "55"
+    },
+    {
+      "title": "Sắc lệnh định thể lệ lĩnh canh ruộng đất",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "85"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi điều 3 của Sắc lệnh số 3 ngày 22-05-1950 về phụ cấp cho gia đình các vị trong ban thường trực Quốc hội",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "01/07/1950",
+      "status": "expired",
+      "id": "65"
+    },
+    {
+      "title": "Về việc ban hành quy định về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của Ban Dân tộc và Miền núi tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "08/09/1999",
+      "effective_date": "08/09/1999",
+      "status": "effective",
+      "id": "4282"
+    },
+    {
+      "title": "Sắc lệnh ban hành Quy chế Công chức",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/05/1950",
+      "effective_date": "04/06/1950",
+      "status": "expired",
+      "id": "96"
+    },
+    {
+      "title": "Về việc thành lập Ban quản lý dự án Mở rộng hệ thống cấp nước Thị xã Bảo lộc",
+      "doc_type": "quyết định",
+      "issue_date": "23/12/1999",
+      "effective_date": "23/12/1999",
+      "status": "effective",
+      "id": "4255"
+    },
+    {
+      "title": "Về việc quy định tạm thời mức bồi dưỡng tập luyện cho vận động viên, giáo viên, huấn luyện viên năng khiếu thể thao",
+      "doc_type": "quyết định",
+      "issue_date": "01/11/1999",
+      "effective_date": "01/11/1999",
+      "status": "effective",
+      "id": "4295"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi một số quy lệ và chế định trong dân luật",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "90"
+    },
+    {
+      "title": "Sắc lệnh tổ chức của Bộ tổng tư lệnh quân đội quốc gia và dân quân",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "26/07/1950",
+      "status": "expired",
+      "id": "54"
+    },
+    {
+      "title": "V/v Ban hành qui định về ký quĩ phục hồi môi trườngtrong khai thác tận thu khoáng sản trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "29/12/1999",
+      "effective_date": "01/01/2000",
+      "status": "effective",
+      "id": "4242"
+    },
+    {
+      "title": "Uỷ quyền cho Sở Thương mại và Du lịch xét duyệt kế hoạch và quản lý hoạt động xuất khẩu, nhập khẩu cho các Doanh nghiệpcó vốn đầu tư nước ngoài, các bên hợp doanh trên cơ sở hợp đồng hợp tác kinh doanh trên địa bàn tỉnh",
+      "doc_type": "quyết định",
+      "issue_date": "27/04/1999",
+      "effective_date": "12/05/1999",
+      "status": "effective",
+      "id": "4203"
+    },
+    {
+      "title": "Sắc lệnh cải cách bộ máy Tư pháp và Luật Tố tụng",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "92"
+    },
+    {
+      "title": "Sắc lệnh chỉ định ông Nguyễn Duy Trinh làm Chủ tịch, ông Trần Đình Tri làm phó Chủ tịch UBKCHC miền Nam trung bộ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/06/1950",
+      "effective_date": "20/06/1950",
+      "status": "expired",
+      "id": "67"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm cán bộ của Bộ tổng tư lệnh quân đội quốc gia Việt nam",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "11/07/1950",
+      "status": "expired",
+      "id": "53"
+    },
+    {
+      "title": "Sắc lệnh đổi các Điều 3, 8 và 12 Sắc lệnh số 68-SL ngày 30-11-1945 quy định việc trưng thu, trưng dụng và trưng tập trong thời kỳ kháng chiến",
+      "doc_type": "sắc lệnh",
+      "issue_date": "30/05/1950",
+      "effective_date": "14/06/1950",
+      "status": "effective",
+      "id": "73"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 6 luật Thuế trực thu ấn định việc đánh thuế điền thổ theo một thuế biểu luỹ tiến",
+      "doc_type": "sắc lệnh",
+      "issue_date": "19/09/1950",
+      "effective_date": "04/10/1950",
+      "status": "expired",
+      "id": "42"
+    },
+    {
+      "title": "Về việc phê duyệt dự án quy hoạch thủy lợi và nước sinh hoạt nông thôn các Huyện Di Linh, Bảo Lâm và Thị xã Bảo Lộc, tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "13/09/1999",
+      "effective_date": "13/09/1999",
+      "status": "effective",
+      "id": "4278"
+    },
+    {
+      "title": "Sắc lệnh định việc sử dụng các ruộng đất bỏ hoang",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "84"
+    },
+    {
+      "title": "Sắc lệnh chỉ định ông Ngô Duy Cảo làm uỷ viên Hà nội",
+      "doc_type": "sắc lệnh",
+      "issue_date": "19/08/1950",
+      "effective_date": "19/08/1950",
+      "status": "expired",
+      "id": "47"
+    },
+    {
+      "title": "Sắc lệnh quy định chế độ công nhân giúp việc Chính phủ trong thời kỳ kháng chiến (thiếu trang 2)",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "91"
+    },
+    {
+      "title": "Về việc ban hành qui định chức năng, nhiệm vụ, quyền hạn tổ chức bộ máy và mối quan hệ công tác của Sở Giao thông - Vận tải tỉnh Bắc Ninh",
+      "doc_type": "quyết định",
+      "issue_date": "25/06/1999",
+      "effective_date": "25/06/1999",
+      "status": "effective",
+      "id": "4202"
+    },
+    {
+      "title": "Về việc niêm yết giá, nhận thanh toán hàng hóa và dịch vụ bằng đồng Việt Nam",
+      "doc_type": "chỉ thị",
+      "issue_date": "13/07/1999",
+      "effective_date": "13/07/1999",
+      "status": "effective",
+      "id": "4257"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 6 Sắc lệnh số 49 ngày 18-6-1949",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "09/06/1950",
+      "status": "expired",
+      "id": "89"
+    },
+    {
+      "title": "Sắc lệnh uỷ Thiếu tướng Trần Tử Bình, Chính trị Uỷ viên Quân hiệu lực quân Trần Quốc Tuấn",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/08/1950",
+      "effective_date": "04/09/1950",
+      "status": "expired",
+      "id": "45"
+    },
+    {
+      "title": "Sắc lệnh đổi tên và định thành phần các Hội đồng và ban tạm cấp ruộng đất tỉnh, xã và đồn điền",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "26/07/1950",
+      "status": "expired",
+      "id": "63"
+    },
+    {
+      "title": "Sắc lệnh đổi tên các Nha lâm chính và Nha thú y mục súc ngư nghiệp",
+      "doc_type": "sắc lệnh",
+      "issue_date": "14/05/1950",
+      "effective_date": "30/04/1975",
+      "status": "expired",
+      "id": "99"
+    },
+    {
+      "title": "Sắc lệnh chỉ định ông Trần Đình Tri, Tôn Thất Vĩ, Lưu Thọ, Phạm Ngọc Quế, làm uỷ viên UBKCHC miền Nam trung bộ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/06/1950",
+      "effective_date": "20/06/1950",
+      "status": "expired",
+      "id": "68"
+    },
+    {
+      "title": "Sắc lệnh tổ chức toà án nhân dân vùng tạm bị chiếm đóng",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "31"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm ông Nguyễn Tri Phương tức Võ Hồng Cương, gĩư chức Phó đổng lý Văn phòng Bộ quốc phòng",
+      "doc_type": "sắc lệnh",
+      "issue_date": "15/06/1950",
+      "effective_date": "16/06/1950",
+      "status": "expired",
+      "id": "70"
+    },
+    {
+      "title": "Sắc lệnh quy định vấn đề ly hôn",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "37"
+    },
+    {
+      "title": "Sắc lệnh cho phép phát hành trong toàn quốc một công trái gọi là \"Công trái Quốc gia\"",
+      "doc_type": "sắc lệnh",
+      "issue_date": "19/09/1950",
+      "effective_date": "04/10/1950",
+      "status": "expired",
+      "id": "43"
+    },
+    {
+      "title": "Sắc lệnh đổi tên Hội đồng giảm tô tỉnh và ban giảm tô xã",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "76"
+    },
+    {
+      "title": "Sắc lệnh định việc bầu cử uỷ viên UBKCHC tỉnh, xã và tăng số uỷ viên UBKCHC liên khu và tỉnh",
+      "doc_type": "sắc lệnh",
+      "issue_date": "10/10/1950",
+      "effective_date": "25/10/1950",
+      "status": "expired",
+      "id": "40"
+    },
+    {
+      "title": "Về việc kinh doanh mặt hàng rượu",
+      "doc_type": "chỉ thị",
+      "issue_date": "01/07/1999",
+      "effective_date": "01/07/1999",
+      "status": "effective",
+      "id": "4264"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 104 Sắc lệnh số 63-SL ngày 22-11-1945 định kỳ họp thường lệ của HĐND tỉnh là ba tháng một lần",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "34"
+    },
+    {
+      "title": "Về việc điều chỉnh, quy định lại việc phân loại đường phố và mức giá các loại đất trên địa bàn Thành phố Đà lạt",
+      "doc_type": "quyết định",
+      "issue_date": "30/12/1999",
+      "effective_date": "30/12/1999",
+      "status": "effective",
+      "id": "4241"
+    },
+    {
+      "title": "Sắc lệnh bãi bỏ Nha Hoa Kiều Vụ ở Sắc lệnh  số 137 ngày 15-02-1948",
+      "doc_type": "sắc lệnh",
+      "issue_date": "20/08/1950",
+      "effective_date": "20/08/1950",
+      "status": "expired",
+      "id": "46"
+    },
+    {
+      "title": "Về việc quy định chế độ công tác phí Hội nghị phí ở các xã, phường, thị trấn trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "28/10/1999",
+      "effective_date": "18/10/1999",
+      "status": "effective",
+      "id": "4299"
+    },
+    {
+      "title": "Sắc lệnh trừng trị những tội bóc trộm, ăn cắp hay thủ tiêu công văn của Chính phủ và thư từ của tư nhân",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/07/1950",
+      "effective_date": "01/08/1950",
+      "status": "expired",
+      "id": "50"
+    },
+    {
+      "title": "Sắc lệnh bổ nhiệm cán bộ của các Bộ, Vụ, Cục ở Bộ tổng tư lệnh quân đội quốc gia Việt nam",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "30/04/1975",
+      "status": "expired",
+      "id": "52"
+    },
+    {
+      "title": "Sắc lệnh bãi bỏ Nha Thống kê",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "26/07/1950",
+      "status": "expired",
+      "id": "51"
+    },
+    {
+      "title": "Sắc lệnh tổ chức toà án quân sự liên khu",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "30"
+    },
+    {
+      "title": "Sắc lệnh tăng thời hạn giam giữ can phạm chính trị để điều tra của UBKCHC tỉnh và liên khu",
+      "doc_type": "sắc lệnh",
+      "issue_date": "02/08/1950",
+      "effective_date": "17/08/1950",
+      "status": "expired",
+      "id": "49"
+    },
+    {
+      "title": "Sắc lệnh bãi bỏ Sắc lệnh số 105 ngày 9-9-1949 về bỏ phí cấp hàng tháng của các vị trong Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "01/05/1950",
+      "status": "expired",
+      "id": "94"
+    },
+    {
+      "title": "Sắc lệnh uỷ cho Bộ Kinh tế quyền ban hành những thể lệ đặc biệt để ngăn ngừa những luồng thương mại có hại cho dân sinh",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "29"
+    },
+    {
+      "title": "Sắc lệnh trả huyện Mai đà vào tỉnh Hoà bình thuộc Liên khu 3",
+      "doc_type": "sắc lệnh",
+      "issue_date": "09/08/1950",
+      "effective_date": "09/08/1950",
+      "status": "expired",
+      "id": "48"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi thủ tục truy tố những vụ phạm pháp đối với thể lệ hoá giá và cấm tích trữ đầu cơ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "35"
+    },
+    {
+      "title": "Về việc chuyển đổi hình thức hoạt động từ đơn vị kinh doanh dịch vụ thành đơn vị hoạt động sự nghiệp có thu của Trung tâm Phát hành Phim và Chiếu bóng",
+      "doc_type": "quyết định",
+      "issue_date": "08/06/1999",
+      "effective_date": "08/06/1999",
+      "status": "effective",
+      "id": "4206"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 3 trong Sắc lệnh số 83 ngày 22-05-1950 về phụ cấp gia đình các vị trong Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "01/07/1950",
+      "status": "expired",
+      "id": "66"
+    },
+    {
+      "title": "Sắc lệnh chấp nhận đơn xin từ chức của các ông Lê Đình Thám, Chủ tịch, ông Nguyễn Văn Chi uỷ viên UBKCHC miền Nam trung bộ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "16/06/1950",
+      "effective_date": "16/06/1950",
+      "status": "expired",
+      "id": "69"
+    },
+    {
+      "title": "Sắc lệnh chỉ định ông Đinh Văn Dục và bà Võ Thị Thể là uỷ viên UBKCHC Liên khu 4",
+      "doc_type": "sắc lệnh",
+      "issue_date": "15/09/1950",
+      "effective_date": "15/09/1950",
+      "status": "expired",
+      "id": "44"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 2 và 3 Sắc lệnh số 8-SL ngày 25-2-1949 về việc quản lý bán hàng hoá",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "11/12/1950",
+      "status": "expired",
+      "id": "33"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Sắc lệnh số 200-SL ngày 8-7-1948 ấn định việc truy tố công chức bỏ việc trong thời kỳ kháng chiến",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "36"
+    },
+    {
+      "title": "Sắc lệnh ấn định lương và phụ cấp cho các công nhân làm việc trong các cơ quan Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "01/05/1950",
+      "status": "expired",
+      "id": "74"
+    },
+    {
+      "title": "Sắc lệnh hạn chế việc giết thịt trâu bò",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "38"
+    },
+    {
+      "title": "Sắc lệnh toà án nhân dân Liên khu tổ chức",
+      "doc_type": "sắc lệnh",
+      "issue_date": "17/11/1950",
+      "effective_date": "02/12/1950",
+      "status": "expired",
+      "id": "32"
+    },
+    {
+      "title": "Sắc lệnh cử ông Lê Chưởng và Trần Sâm vào Bộ tư lệnh bộ đội địa phương Liên khu bốn",
+      "doc_type": "sắc lệnh",
+      "issue_date": "18/05/1950",
+      "effective_date": "18/05/1950",
+      "status": "expired",
+      "id": "97"
+    },
+    {
+      "title": "Sắc lệnh tổ chức các trại giam",
+      "doc_type": "sắc lệnh",
+      "issue_date": "07/11/1950",
+      "effective_date": "22/11/1950",
+      "status": "expired",
+      "id": "39"
+    },
+    {
+      "title": "Quản lý thống nhất việc thu phí vào cổng tham quan các danh lam thắng cảnh, các khu du lịch, khu vui chơi giải trí trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "19/11/1999",
+      "effective_date": "19/11/1999",
+      "status": "effective",
+      "id": "4281"
+    },
+    {
+      "title": "Về việc ban hành biểu mẫu biên bản vi phạm do các đơn vị quản lý rừng sử dụng.",
+      "doc_type": "quyết định",
+      "issue_date": "16/12/1999",
+      "effective_date": "16/12/1999",
+      "status": "effective",
+      "id": "4256"
+    },
+    {
+      "title": "Về việc ban hành quy định chức năng nhiệm vụ, quyền hạn, tổ chức bộ máy và mối quan hệ công tác của Sở Văn hoá và Thông tin tỉnh Bắc Ninh",
+      "doc_type": "quyết định",
+      "issue_date": "31/03/1999",
+      "effective_date": "31/03/1999",
+      "status": "effective",
+      "id": "4205"
+    },
+    {
+      "title": "Sắc lệnh ấn định lương và phụ cấp cho các nhân viên điều khiển các phòng, sở và ty",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "01/05/1950",
+      "status": "expired",
+      "id": "82"
+    },
+    {
+      "title": "Về việc kiểm tra, thanh tra việc quản lý, cấp phát, sử dụng các loại văn bằng, chứng chỉ của hệ thống giáo dục quốc dân.",
+      "doc_type": "chỉ thị",
+      "issue_date": "28/12/1999",
+      "effective_date": "28/12/1999",
+      "status": "effective",
+      "id": "4251"
+    },
+    {
+      "title": "Sắc lệnh tổ chức Nha Công sản - Trực thu - Địa chính",
+      "doc_type": "sắc lệnh",
+      "issue_date": "11/07/1950",
+      "effective_date": "26/07/1950",
+      "status": "expired",
+      "id": "62"
+    },
+    {
+      "title": "Về việc xử lý đối với nhà ở cho thuê thuộc quyền sở hữu Nhà nước trên địa bàn thành phố Đà Lạt, thị xã Bảo Lộc nhưng bên thuê đã chuyển nhượng quyền thuê cho người khác",
+      "doc_type": "quyết định",
+      "issue_date": "08/11/1999",
+      "effective_date": "08/11/1999",
+      "status": "effective",
+      "id": "4288"
+    },
+    {
+      "title": "Sắc lệnh sửa đổi Điều 7 Bộ luật thuế trực thu ấn định cách thức đánh thuế đất",
+      "doc_type": "sắc lệnh",
+      "issue_date": "19/09/1950",
+      "effective_date": "04/10/1950",
+      "status": "expired",
+      "id": "41"
+    },
+    {
+      "title": "Về việc duy trì củng cố và phát triển thành qủa công tác chống mù chữ và phổ cập giáo dục tiểu học",
+      "doc_type": "chỉ thị",
+      "issue_date": "30/12/1998",
+      "effective_date": "30/12/1998",
+      "status": "effective",
+      "id": "4296"
+    },
+    {
+      "title": "Về việc qui định chế độ trợ cấp đối với học sinh đang học tại các trường phổ thông dân tộc nội trú thuộc tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "20/01/1999",
+      "effective_date": "01/01/1999",
+      "status": "expired",
+      "id": "4285"
+    },
+    {
+      "title": "Về việc điều chỉnh danh mục các xã, phường, thị trấn trọng điểm thuộc các vùng xung yếu dễ xảy ra cháy rừng và các tháng trọng điểm cháy rừng trên địa bàn tỉnh Lâm Đồ",
+      "doc_type": "quyết định",
+      "issue_date": "30/11/1999",
+      "effective_date": "30/11/1999",
+      "status": "effective",
+      "id": "4276"
+    },
+    {
+      "title": "Sắc lệnh thành lập Bộ Tư lệnh Bộ đội địa phương liên khu 4",
+      "doc_type": "sắc lệnh",
+      "issue_date": "18/05/1950",
+      "effective_date": "02/06/1950",
+      "status": "expired",
+      "id": "98"
+    },
+    {
+      "title": "Sắc lệnh định thuế biểu luỹ tiến để thu thuế điền thổ bằng thóc",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "06/06/1950",
+      "status": "expired",
+      "id": "86"
+    },
+    {
+      "title": "Về việc bãi bỏ Công văn số 1852/CV-UB ngày 12/12/1995 của UBND tỉnh và Quyết định số 266/QĐ-UB ngày 15/5/1996của UBND Thành phố Đà lạt về việc thu phí đậu xe, hoạt động chụp hình và xe thồ tại địa bàn Thành phố Đà lạt.",
+      "doc_type": "quyết định",
+      "issue_date": "19/11/1999",
+      "effective_date": "19/11/1999",
+      "status": "effective",
+      "id": "4287"
+    },
+    {
+      "title": "Về việc bãi bỏ các quyết định về giá buồng phòng đối với các cơ sở kinh doanh lưu trú khách du lịch trên địa bàn tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "13/01/2000",
+      "effective_date": "13/01/2000",
+      "status": "effective",
+      "id": "4240"
+    },
+    {
+      "title": "Về việc thành lập Trường Trung học Kinh tế - Kỹ thuật Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "24/12/1999",
+      "effective_date": "24/12/1999",
+      "status": "effective",
+      "id": "4253"
+    },
+    {
+      "title": "Sắc lệnh ấn định thang lương chung cho công chức làm việc trong các cơ quan Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "22/05/1950",
+      "effective_date": "01/05/1950",
+      "status": "expired",
+      "id": "80"
+    },
+    {
+      "title": "Về việc qui định chức năng, nhiệm vụ của sở y tế tỉnh Lâm Đồng",
+      "doc_type": "quyết định",
+      "issue_date": "30/12/1998",
+      "effective_date": "15/01/1999",
+      "status": "effective",
+      "id": "4298"
+    },
+    {
+      "title": "Về việc ban hành bản Quy định về định hướng nội dung Xây dựng và thực hiện quy ước cộng đồng dân cư ở cơ sở",
+      "doc_type": "nghị quyết",
+      "issue_date": "22/12/1999",
+      "effective_date": "11/02/1999",
+      "status": "effective",
+      "id": "4277"
+    },
+    {
+      "title": "Sắc lệnh thành lập Ban Kinh tế Chính phủ",
+      "doc_type": "sắc lệnh",
+      "issue_date": "14/05/1950",
+      "effective_date": "29/05/1950",
+      "status": "expired",
+      "id": "100"
+    }
+  ],
+  "edges": []
+}
