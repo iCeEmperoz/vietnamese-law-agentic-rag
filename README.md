@@ -85,7 +85,7 @@ Hệ thống sử dụng các thư viện Python hiện đại (bao gồm langch
 pip install chromadb rank-bm25 networkx sentence-transformers fastapi uvicorn streamlit python-dotenv langchain-google-genai langchain-groq langchain-community pyyaml pandas
 ```
 
-### 2. Thiết lập API Key
+### 2. Thiết lập API KEY
 Tạo file `.env` ở thư mục gốc của dự án để cấu hình linh hoạt đa LLM Provider (Gemini & Groq):
 ```env
 # Lựa chọn LLM Provider chính cho Chatbot & Agent: 'gemini' hoặc 'groq'
