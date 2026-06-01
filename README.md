@@ -6,6 +6,14 @@ Hệ thống được phát triển bằng **LangChain**, **ChromaDB**, **BM25**
 
 ---
 
+## 🖼️ Demo
+
+![Giao diện Chatbot Pháp Luật Việt Nam](assets/demo.png)
+
+> *Ví dụ: Tra cứu mức phạt nồng độ cồn khi lái xe — hệ thống trích dẫn chính xác điều khoản theo Nghị định 100/2019/NĐ-CP kèm trạng thái hiệu lực.*
+
+---
+
 ## 🗺️ Sơ đồ Kiến trúc & Luồng dữ liệu (Architecture & Data Flow)
 
 Hệ thống tuân thủ nghiêm ngặt mô hình kiến trúc **4 lớp lớp chồng lớp (Layered Architecture)** từ dưới lên trên:

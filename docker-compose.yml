@@ -1,8 +1,31 @@
-version: "3.9"
 services:
-  rag-app:
-    build: .
+  # Tầng API: Chạy FastAPI server ở cổng 8000
+  api:
+    image: iceemperoz/agentic-chatbot-api:latest
     ports:
       - "8000:8000"
+    env_file:
+      - .env
     environment:
-      - ENV=development
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+      - ./configs:/app/configs
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000
+
+  # Tầng UI: Chạy Streamlit dashboard ở cổng 8501
+  ui:
+    image: iceemperoz/agentic-chatbot-ui:latest
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    environment:
+      - PYTHONPATH=/app
+    volumes:
+      - ./data:/app/data
+      - ./configs:/app/configs
+    depends_on:
+      - api
+    command: streamlit run src/ui/app.py --server.port 8501 --server.address 0.0.0.0
+
